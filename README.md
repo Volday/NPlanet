@@ -1,2 +1,2 @@
 # NPlanet
- 30 hours gameJame
+ Developed in 30 hours for local gameJam
